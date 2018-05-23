@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/JudgeTasks/02Loops/02Loops/02Loops.iml" filepath="$PROJECT_DIR$/JudgeTasks/02Loops/02Loops/02Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/03Arrays.iml" filepath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/03Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/JudgeTasks/04NumeralSystems/04NumeralSystems/04NumeralSystems.iml" filepath="$PROJECT_DIR$/JudgeTasks/04NumeralSystems/04NumeralSystems/04NumeralSystems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/05HashTables/JudgeTasks.iml" filepath="$PROJECT_DIR$/JudgeTasks/05HashTables/JudgeTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JudgeTasks/OtherProblems/OtherProblems/OtherProblems.iml" filepath="$PROJECT_DIR$/JudgeTasks/OtherProblems/OtherProblems/OtherProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
     </modules>
