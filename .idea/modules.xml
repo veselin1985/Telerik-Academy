@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/01Conditionals/01Conditionals/01Conditionals.iml" filepath="$PROJECT_DIR$/JudgeTasks/01Conditionals/01Conditionals/01Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/02Loops/02Loops/02Loops.iml" filepath="$PROJECT_DIR$/JudgeTasks/02Loops/02Loops/02Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/03Arrays.iml" filepath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/03Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/04NumeralSystems/04NumeralSystems/04NumeralSystems.iml" filepath="$PROJECT_DIR$/JudgeTasks/04NumeralSystems/04NumeralSystems/04NumeralSystems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JudgeTasks/OtherProblems/OtherProblems/OtherProblems.iml" filepath="$PROJECT_DIR$/JudgeTasks/OtherProblems/OtherProblems/OtherProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
+    </modules>
+  </component>
+</project>
