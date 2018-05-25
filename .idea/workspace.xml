@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e98bc9cc-81d2-4c06-9dc7-ad38c3be23c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/SetAndMap/SetAndMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/JudgeTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P01OddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e98bc9cc-81d2-4c06-9dc7-ad38c3be23c4" name="Default" comment="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA">
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P02UnitsOfWork_NW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,7 +23,17 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="P01BracketsExpressions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +51,12 @@
         <option value="$PROJECT_DIR$/Exercises/src/SetAndMap.java" />
         <option value="$PROJECT_DIR$/Exercises/src/SetAndMap/SetAndMap.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P01OddNumber.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P02Cooking.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P02UnitsOfWork.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Coocking.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" />
       </list>
     </option>
   </component>
@@ -58,8 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -71,22 +82,24 @@
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JudgeTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="05HashTables" type="462c0819:PsiDirectoryNode" />
+              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JudgeTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="05HashTables" type="462c0819:PsiDirectoryNode" />
+              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JudgeTasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,10 +122,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetAndMap">
+  <component name="RunManager" selected="Application.P03Cooking_NW">
     <configuration name="P01_PrintDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P01_PrintDeck" />
       <module name="02Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="P03Cooking_NW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P03Cooking_NW" />
+      <module name="JudgeTasks" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="SetAndMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -164,9 +182,11 @@
     <list>
       <item itemvalue="Application.P01_PrintDeck" />
       <item itemvalue="Application.SetAndMap" />
+      <item itemvalue="Application.P03Cooking_NW" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03Cooking_NW" />
         <item itemvalue="Application.SetAndMap" />
         <item itemvalue="Application.P01_PrintDeck" />
       </list>
@@ -190,11 +210,19 @@
       <option name="project" value="LOCAL" />
       <updated>1527064431168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercises module added in Telerik-Academy repository.&#10;05HashTables package added to Judge Tasks.&#10;01OddNumber - judge problem solution.">
+      <created>1527090684250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527090684250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1378" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -205,25 +233,25 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25154322" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3110774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32018209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287037" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -231,13 +259,71 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Telerik Academy judge tasks solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Telerik Academy judge tasks solutions." />
+    <MESSAGE value="Exercises module added in Telerik-Academy repository.&#10;05HashTables package added to Judge Tasks.&#10;01OddNumber - judge problem solution." />
+    <MESSAGE value="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA" />
+    <option name="LAST_COMMIT_MESSAGE" value="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/02Loops/02Loops/src/P01_PrintDeck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/SetAndMap/SetAndMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P02UnitsOfWork_NW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -251,10 +337,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/SetAndMap/SetAndMap.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="536">
+          <caret line="1497" selection-start-line="1497" selection-end-line="1497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3976">
+          <caret line="263" column="13" selection-start-line="263" selection-start-column="13" selection-end-line="263" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
