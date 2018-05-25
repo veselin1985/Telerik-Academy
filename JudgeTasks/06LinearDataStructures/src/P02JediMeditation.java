@@ -30,7 +30,6 @@ public class P02JediMeditation {
         padawans.add(meditation);
       }
     }
-
     while (masters.size() > 0) {
       System.out.print(masters.remove() + " ");
     }
