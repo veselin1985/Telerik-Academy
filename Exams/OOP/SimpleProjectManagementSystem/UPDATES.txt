@@ -1,0 +1,3 @@
+- Created Ticket, TODO and Task class.
+- Implement ProjectManagementSystem interface in ProjectManagementSystemImpl class.
+- Fixed issues with CommandParserImpl. New switch case based on the command.
