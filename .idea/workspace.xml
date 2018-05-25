@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e98bc9cc-81d2-4c06-9dc7-ad38c3be23c4" name="Default" comment="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA">
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P02UnitsOfWork_NW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/06LinearDataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +25,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P01BracketsExpressions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P01BracketsExpressions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="315">
+              <caret line="22" column="33" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P02JediMeditation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,6 +73,7 @@
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java" />
       </list>
     </option>
   </component>
@@ -122,10 +139,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P03Cooking_NW">
+  <component name="RunManager" selected="Application.P02JediMeditation">
+    <configuration name="P01BracketsExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P01BracketsExpressions" />
+      <module name="06LinearDataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="P01_PrintDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P01_PrintDeck" />
       <module name="02Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="P02JediMeditation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02JediMeditation" />
+      <module name="06LinearDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="P03Cooking_NW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -183,9 +210,13 @@
       <item itemvalue="Application.P01_PrintDeck" />
       <item itemvalue="Application.SetAndMap" />
       <item itemvalue="Application.P03Cooking_NW" />
+      <item itemvalue="Application.P01BracketsExpressions" />
+      <item itemvalue="Application.P02JediMeditation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02JediMeditation" />
+        <item itemvalue="Application.P01BracketsExpressions" />
         <item itemvalue="Application.P03Cooking_NW" />
         <item itemvalue="Application.SetAndMap" />
         <item itemvalue="Application.P01_PrintDeck" />
@@ -217,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527090684250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="06LinearDataStructures module added.&#10;P01BracketExpressions class created.">
+      <created>1527230887321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527230887321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -227,19 +265,20 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="simpleUML" order="2" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287037" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25154322" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25154322" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32018209" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896908" visible="true" weight="0.32018209" />
+      <window_info id="Structure" order="1" sideWeight="0.5010309" side_tool="true" weight="0.32018209" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -251,7 +290,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287037" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -261,7 +299,8 @@
     <MESSAGE value="Telerik Academy judge tasks solutions." />
     <MESSAGE value="Exercises module added in Telerik-Academy repository.&#10;05HashTables package added to Judge Tasks.&#10;01OddNumber - judge problem solution." />
     <MESSAGE value="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA" />
-    <option name="LAST_COMMIT_MESSAGE" value="P02UnitsOfWork class added.&#10;P03Cooking class added. - Cooking failed test 5-22-IR; 20-WA" />
+    <MESSAGE value="06LinearDataStructures module added.&#10;P01BracketExpressions class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="06LinearDataStructures module added.&#10;P01BracketExpressions class created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -373,8 +412,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="315">
+          <caret line="22" column="33" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
