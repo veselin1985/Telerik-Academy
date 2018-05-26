@@ -2,14 +2,15 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigDecimal;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class P03Cooking {
-
+  /**
+   * Cooking - judge task solution.
+   */
   public static void main(String[] args) throws IOException {
 
 
@@ -20,7 +21,7 @@ public class P03Cooking {
     List<String> productAppearance = new ArrayList<>();
 
     int n = Integer.parseInt(console.readLine());
-//fill the map with all products - qty converted to cups.
+    //fill the map with all products - qty converted to cups.
 
     for (int i = 0; i < n; i++) {
       String input = console.readLine();
@@ -43,7 +44,7 @@ public class P03Cooking {
       }
       if (cook.containsKey(productName.toLowerCase())) {
         double updateCupQty = cook.get(productName.toLowerCase()).getCupQty();
-        if(updateCupQty<0){
+        if (updateCupQty < 0) {
           updateCupQty = 0.00;
         }
         double calculateCurrentCupQty = product1.getCupQty();
@@ -74,7 +75,7 @@ public class P03Cooking {
       Product product1 = new Product(productName, measure, quantity);
       if (cook.containsKey(productName.toLowerCase())) {
         double updateCupQty = cook.get(productName.toLowerCase()).getCupQty();
-        if(updateCupQty<0){
+        if (updateCupQty < 0) {
           updateCupQty = 0.00;
         }
         double calculateCurrentCupQty = product1.getCupQty();
@@ -85,7 +86,6 @@ public class P03Cooking {
     }
 
 
-
     for (String productShowed : productAppearance) {
       double cookCupQtyTemp = cook.get(productShowed).getCupQty();
 
@@ -93,7 +93,8 @@ public class P03Cooking {
       if (cookCupQtyTemp > 0 && cook.containsKey(productShowed)) {
         double qtyForPrint = cook.get(productShowed).getCupQty();
         String originalMeasureForSwitch = cook.get(productShowed).getOriginalMeasure();
-        qtyForPrint = cook.get(productShowed).reverseToOriginalQty(originalMeasureForSwitch, qtyForPrint)+0.0001;
+        qtyForPrint = cook.get(productShowed).reverseToOriginalQty(originalMeasureForSwitch,
+            qtyForPrint) + 0.0001;
         String stringValue = String.valueOf(qtyForPrint);
         BigDecimal printValue = new BigDecimal(stringValue);
 
@@ -101,7 +102,8 @@ public class P03Cooking {
           System.out.printf("%.2f:%s:\n", printValue, cook.get(productShowed).getOriginalMeasure());
 
         } else {
-          System.out.printf("%.2f:%s:%s\n", printValue, cook.get(productShowed).getOriginalMeasure(), cook.get(productShowed).getName());
+          System.out.printf("%.2f:%s:%s\n", printValue,
+              cook.get(productShowed).getOriginalMeasure(), cook.get(productShowed).getName());
         }
       }
     }
