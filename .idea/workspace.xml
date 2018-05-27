@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="EXAM/OOP module created.&#10;SimpeProjectManagementSystem project created. First exam OOP.">
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Graph/BFSGraphImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/Graph/DFSGraphImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java" afterDir="false" />
+    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,32 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="P03Cooking.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java">
+      <file leaf-file-name="P01BracketsExpressions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
-                <element signature="e#5618#5619#0" expanded="true" />
-                <element signature="e#5655#5656#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P03Swappings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -77,12 +62,13 @@
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking2nd_NW.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="92" />
-    <option name="y" value="-15" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="780" />
   </component>
@@ -102,11 +88,11 @@
           <expand>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="05HashTables" type="462c0819:PsiDirectoryNode" />
+              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="05HashTables" type="462c0819:PsiDirectoryNode" />
+              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -134,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P03Cooking2nd_NW">
+  <component name="RunManager" selected="Application.P03Cooking">
     <configuration name="BFSGraphImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.BFSGraphImplementation" />
       <module name="Exercises" />
@@ -220,15 +206,14 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.P03Cooking" />
       <item itemvalue="Application.P03Cooking_NW" />
       <item itemvalue="Application.BFSGraphImplementation" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DFSGraphImplementation" />
-      <item itemvalue="Application.P03Cooking2nd_NW" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P03Cooking2nd_NW" />
         <item itemvalue="Application.DFSGraphImplementation" />
         <item itemvalue="Application.BFSGraphImplementation" />
         <item itemvalue="Application.Main" />
@@ -268,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527234202925</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="P03Cooking - solution">
+      <created>1527351529521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527351529521</updated>
+    </task>
+    <task id="LOCAL-00005" summary="P03Cooking - solution - google checkstyle update.">
+      <created>1527355236072</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527355236072</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,15 +276,15 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="simpleUML" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287037" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49924356" visible="true" weight="0.32843137" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -339,7 +338,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EXAM/OOP module created.&#10;SimpeProjectManagementSystem project created. First exam OOP." />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAM/OOP module created.&#10;SimpeProjectManagementSystem project created. First exam OOP." />
+    <MESSAGE value="P03Cooking - solution" />
+    <MESSAGE value="P03Cooking - solution - google checkstyle update." />
+    <option name="LAST_COMMIT_MESSAGE" value="P03Cooking - solution - google checkstyle update." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,6 +360,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -383,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -409,6 +407,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -435,29 +437,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        <state relative-caret-position="216">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#5618#5619#0" expanded="true" />
-            <element signature="e#5655#5656#0" expanded="true" />
+            <element signature="e#4026#4027#0" expanded="true" />
+            <element signature="e#4051#4052#0" expanded="true" />
+            <element signature="e#4084#4085#0" expanded="true" />
+            <element signature="e#4114#4115#0" expanded="true" />
+            <element signature="e#4149#4150#0" expanded="true" />
+            <element signature="e#4185#4186#0" expanded="true" />
+            <element signature="e#4240#4241#0" expanded="true" />
+            <element signature="e#4292#4293#0" expanded="true" />
+            <element signature="e#4323#4324#0" expanded="true" />
+            <element signature="e#4355#4356#0" expanded="true" />
+            <element signature="e#4402#4403#0" expanded="true" />
+            <element signature="e#4446#4447#0" expanded="true" />
+            <element signature="e#4473#4474#0" expanded="true" />
+            <element signature="e#4501#4502#0" expanded="true" />
+            <element signature="e#5443#5444#0" expanded="true" />
+            <element signature="e#5470#5471#0" expanded="true" />
+            <element signature="e#5510#5511#0" expanded="true" />
+            <element signature="e#5547#5548#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>
