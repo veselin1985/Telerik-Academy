@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P03Swappings_NA {
+public class P03Swappings_WA {
   public static void main(String[] args) {
 
     Scanner console = new Scanner(System.in);
