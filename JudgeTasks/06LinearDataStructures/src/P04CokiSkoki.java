@@ -18,14 +18,16 @@ public class P04CokiSkoki {
     Stack<Integer> peeks = new Stack<>();
     int[] jumps = new int[n];
 
-    for (int i = buildings.length-1; i >=0 ; i--) {
+    for (int i = buildings.length - 1; i >= 0; i--) {
 
       while (!peeks.isEmpty() &&
-          buildings[peeks.peek()]<= buildings[i]){
+          buildings[peeks.peek()] <= buildings[i]) {
         int peekIndex = peeks.pop();
         jumps[peekIndex] = peeks.size();
-      }peeks.push(i);
-    }while (!peeks.isEmpty()){
+      }
+      peeks.push(i);
+    }
+    while (!peeks.isEmpty()) {
       int peekIndex = peeks.pop();
       jumps[peekIndex] = peeks.size();
 
@@ -35,6 +37,6 @@ public class P04CokiSkoki {
         .getAsInt();
     System.out.println(maxJump);
     Arrays.stream(jumps)
-        .forEach(x-> System.out.print(x + " "));
+        .forEach(x -> System.out.print(x + " "));
   }
 }
