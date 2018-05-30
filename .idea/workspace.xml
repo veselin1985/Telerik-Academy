@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java" beforeDir="false" afterPath="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +22,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P04CokiSkoki.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P04CokiSkoki.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFSGraphImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Graph/BFSGraphImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P14LargestAreaInMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1453#1454#0" expanded="true" />
+                <element signature="e#1490#1491#0" expanded="true" />
+                <element signature="e#4002#4003#0" expanded="true" />
+                <element signature="e#4081#4082#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,6 +85,7 @@
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings_NA.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki_TLE.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" />
       </list>
     </option>
   </component>
@@ -77,18 +103,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="03Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="06LinearDataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="03Arrays" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -132,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P04CokiSkoki_TLE">
+  <component name="RunManager" selected="Application.P14LargestAreaInMatrix">
     <configuration name="BFSGraphImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.BFSGraphImplementation" />
       <module name="Exercises" />
@@ -171,9 +197,9 @@
       <module name="05HashTables" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="P04CokiSkoki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04CokiSkoki" />
-      <module name="06LinearDataStructures" />
+    <configuration name="P14LargestAreaInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P14LargestAreaInMatrix" />
+      <module name="03Arrays" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -222,11 +248,11 @@
       <item itemvalue="Application.BFSGraphImplementation" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DFSGraphImplementation" />
-      <item itemvalue="Application.P04CokiSkoki_TLE" />
+      <item itemvalue="Application.P14LargestAreaInMatrix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P04CokiSkoki_TLE" />
+        <item itemvalue="Application.P14LargestAreaInMatrix" />
         <item itemvalue="Application.DFSGraphImplementation" />
         <item itemvalue="Application.BFSGraphImplementation" />
         <item itemvalue="Application.Main" />
@@ -294,11 +320,19 @@
       <option name="project" value="LOCAL" />
       <updated>1527573624598</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="P04CokiSkoki - solution">
+      <created>1527573821631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527573821631</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,12 +344,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.16666667" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.27912253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.2912254" />
       <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.27155825" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -346,18 +380,18 @@
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="simpleUML" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -391,6 +425,43 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Graph/BFSGraphImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -539,19 +610,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/Graph/BFSGraphImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="527">
           <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="646">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#4002#4003#0" expanded="true" />
+            <element signature="e#4081#4082#0" expanded="true" />
           </folding>
         </state>
       </provider>
