@@ -1,4 +1,4 @@
-package SetAndMap;
+package DSA.SetAndMap;
 
 public class SetAndMap {
 

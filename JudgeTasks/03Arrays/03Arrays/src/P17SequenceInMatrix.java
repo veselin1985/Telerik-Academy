@@ -12,16 +12,16 @@ public class P17SequenceInMatrix {
 
     int max = 0;
 
-    int[][] matrix = new int[n][m];
+    String[][] matrix = new String[n][m];
     for (int row = 0; row < n; row++) {
       for (int col = 0; col < m; col++) {
-        matrix[row][col] = console.nextInt();
+        matrix[row][col] = console.next();
       }
     }
     for (int row = 0; row < matrix.length; row++) {
       int currentMax = 1;
       for (int col = 0; col < matrix[row].length-1; col++) {
-        if (matrix[row][col] == matrix[row][col + 1]) {
+        if (matrix[row][col] .equals( matrix[row][col + 1])) {
           currentMax++;
           max = Math.max(currentMax, max);
 
@@ -32,7 +32,7 @@ public class P17SequenceInMatrix {
     for (int row = 0; row < matrix.length; row++) {
       int currentMax = 1;
       for (int col = 0; col < matrix[row].length-1; col++) {
-        if (matrix[col][row] == matrix[col+1][row]) {
+        if (matrix[col][row] .equals( matrix[col+1][row])) {
           currentMax++;
           max = Math.max(currentMax, max);
 

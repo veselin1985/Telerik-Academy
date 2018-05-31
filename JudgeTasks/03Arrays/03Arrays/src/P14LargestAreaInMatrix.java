@@ -26,8 +26,6 @@ public class P14LargestAreaInMatrix {
 
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < m; j++) {
-
-        if(!visited[i][j])
         maxNums = Math.max(maxNums, getArea(i, j, matrix, matrix[i][j], visited));
       }
     }
@@ -51,6 +49,11 @@ public class P14LargestAreaInMatrix {
         getArea(row, col - 1, matrix, currentValue, visited);
 
 
+  }
+
+  private static boolean isInMatrix(int row, int col, int rows, int cols){
+    return row < 0 || col < 0 || row > rows - 1
+        || col > cols - 1;
   }
   static class InputReader {
 
