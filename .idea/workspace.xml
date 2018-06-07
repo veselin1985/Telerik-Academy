@@ -2,39 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P01AsteroidCollisionLeetCode_NW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/P07Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/FloydWarshall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/DSA04062018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P01HdnlToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P02Slogan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P03OnlineMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P04Packages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P01RedRidingHood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P02Kamion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P03Deistviq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/P08Tree/P08Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JudgeTasks/P08Tree/src/P03Medians_NW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Graph/P01KeysAndRooms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/Graph/BFSGraphImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/BFSGraphImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/Graph/DFSGraphImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/DFSGraphImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/SetAndMap/SetAndMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/SetAndMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P17SequenceInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P17SequenceInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/SortingAlgorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/com/georgiev/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/com/georgiev/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,135 +38,11 @@
       </map>
     </option>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Telerik-Academy" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BFSGraphImplementation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/BFSGraphImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P01AsteroidCollisionLeetCode_NW.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P01AsteroidCollisionLeetCode_NW.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P02UnitsOfWork.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DFSGraphImplementation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/DFSGraphImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SortingAlgorithms/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P17SequenceInMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P17SequenceInMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryHeapAbstract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapAbstract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-442">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#2044#2045#0" expanded="true" />
-                <element signature="e#2078#2079#0" expanded="true" />
-                <element signature="e#2368#2369#0" expanded="true" />
-                <element signature="e#2422#2423#0" expanded="true" />
-                <element signature="e#2250#2251#0" expanded="true" />
-                <element signature="e#2280#2281#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryHeapBestMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryHeapBestMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,6 +51,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wearetelerikacademy</find>
+      <find>system.out.print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -205,7 +74,6 @@
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings_NA.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki_TLE.java" />
-        <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java" />
         <option value="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P14LargestAreaInMatrix.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DSA/Graph/BinaryHeap/BinaryHeap.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeap.java" />
@@ -216,15 +84,35 @@
         <option value="$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P17SequenceInMatrix.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P01AsteroidCollisionLeetCode.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P01AsteroidCollisionLeetCode_NW.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Array/P01FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Graph/P01KeysAndRooms.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/FloydWarshall.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Slogan.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01Shop.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P01RedRidingHood.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P02Kamion_NW.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P02Kamion.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P03Medians.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P08Tree/src/P03Medians_NW.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P03Deistviq.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P02Slogan.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P04Packages.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/ADrian.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P03OnlineMarket.java" />
+        <option value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P01HdnlToy.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -234,67 +122,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA04062018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA04062018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="DSAexamPreparation30052018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphsAlgorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="SetAndMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="SortingAlgorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Telerik-Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P07Graph" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -318,48 +168,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P01AsteroidCollisionLeetCode_NW">
-    <configuration name="BFSGraphImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.BFSGraphImplementation" />
+  <component name="RunManager" selected="Application.P01HdnlToy">
+    <configuration name="P01HdnlToy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P01HdnlToy" />
+      <module name="DSA04062018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="P02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.SetAndMap.P02" />
       <module name="Exercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DSA.SetAndMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DFSGraphImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.DFSGraphImplementation" />
+    <configuration name="P02Slogan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02Slogan" />
+      <module name="DSA04062018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.SetAndMap.P03" />
       <module name="Exercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DSA.SetAndMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P01AsteroidCollisionLeetCode_NW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.DSAexamPreparation30052018.P01AsteroidCollisionLeetCode_NW" />
-      <module name="Exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA.DSAexamPreparation30052018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="P14LargestAreaInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P14LargestAreaInMatrix" />
-      <module name="03Arrays" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="P17SequenceInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P17SequenceInMatrix" />
-      <module name="03Arrays" />
+    <configuration name="P03OnlineMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P03OnlineMarket" />
+      <module name="DSA04062018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -404,19 +248,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.BFSGraphImplementation" />
-      <item itemvalue="Application.DFSGraphImplementation" />
-      <item itemvalue="Application.P14LargestAreaInMatrix" />
-      <item itemvalue="Application.P17SequenceInMatrix" />
-      <item itemvalue="Application.P01AsteroidCollisionLeetCode_NW" />
+      <item itemvalue="Application.P03" />
+      <item itemvalue="Application.P02Slogan" />
+      <item itemvalue="Application.P02" />
+      <item itemvalue="Application.P03OnlineMarket" />
+      <item itemvalue="Application.P01HdnlToy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P01AsteroidCollisionLeetCode_NW" />
-        <item itemvalue="Application.P17SequenceInMatrix" />
-        <item itemvalue="Application.P14LargestAreaInMatrix" />
-        <item itemvalue="Application.DFSGraphImplementation" />
-        <item itemvalue="Application.BFSGraphImplementation" />
+        <item itemvalue="Application.P01HdnlToy" />
+        <item itemvalue="Application.P03OnlineMarket" />
+        <item itemvalue="Application.P02Slogan" />
+        <item itemvalue="Application.P02" />
+        <item itemvalue="Application.P03" />
       </list>
     </recent_temporary>
   </component>
@@ -494,41 +338,48 @@
       <option name="project" value="LOCAL" />
       <updated>1527672675026</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LeetCode module added.&#10;P14LargestAreaInMatrix - solution">
+      <created>1527747932166</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527747932167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1378" height="735" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="simpleUML" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49924356" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030349" side_tool="true" weight="0.68822557" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32843137" />
-      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969651" weight="0.11111111" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32669982" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.2912254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49563318" visible="true" weight="0.36418816" />
       <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.27155825" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.29575163" />
+      <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" weight="0.33763278" />
+      <window_info anchor="bottom" x="22" y="281" width="1318" height="289" id="Debug" order="7" sideWeight="0.49924356" weight="0.76285243" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.569044" weight="0.3283582" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -547,18 +398,18 @@
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -571,7 +422,8 @@
     <MESSAGE value="P03Swappings and P04CokiSkoki classes created (Telerik Judge Academy tasks)" />
     <MESSAGE value="P04CokiSkoki - solution" />
     <MESSAGE value="Judge - 03Arrays - P14LargestAreaInMatrix solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Judge - 03Arrays - P14LargestAreaInMatrix solution." />
+    <MESSAGE value="LeetCode module added.&#10;P14LargestAreaInMatrix - solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode module added.&#10;P14LargestAreaInMatrix - solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,25 +436,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java</url>
-          <line>40</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JudgeTasks/P07Graph/src/P01RedRidingHood.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P02Slogan.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P01HdnlToy.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/BFSGraphImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -721,49 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P01OddNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking_NW.java" />
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4026#4027#0" expanded="true" />
-            <element signature="e#4051#4052#0" expanded="true" />
-            <element signature="e#4084#4085#0" expanded="true" />
-            <element signature="e#4114#4115#0" expanded="true" />
-            <element signature="e#4149#4150#0" expanded="true" />
-            <element signature="e#4185#4186#0" expanded="true" />
-            <element signature="e#4240#4241#0" expanded="true" />
-            <element signature="e#4292#4293#0" expanded="true" />
-            <element signature="e#4323#4324#0" expanded="true" />
-            <element signature="e#4355#4356#0" expanded="true" />
-            <element signature="e#4402#4403#0" expanded="true" />
-            <element signature="e#4446#4447#0" expanded="true" />
-            <element signature="e#4473#4474#0" expanded="true" />
-            <element signature="e#4501#4502#0" expanded="true" />
-            <element signature="e#5443#5444#0" expanded="true" />
-            <element signature="e#5470#5471#0" expanded="true" />
-            <element signature="e#5510#5511#0" expanded="true" />
-            <element signature="e#5547#5548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings_WA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P01BracketsExpressions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -775,23 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1453#1454#0" expanded="true" />
-            <element signature="e#1490#1491#0" expanded="true" />
-            <element signature="e#4002#4003#0" expanded="true" />
-            <element signature="e#4081#4082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,61 +605,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapAbstract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2078#2079#0" expanded="true" />
-            <element signature="e#2368#2369#0" expanded="true" />
-            <element signature="e#2422#2423#0" expanded="true" />
-            <element signature="e#2250#2251#0" expanded="true" />
-            <element signature="e#2280#2281#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="119">
           <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/BinaryHeap/BinaryHeapImplementation/BinaryHeapBestMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/DFSGraphImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -871,39 +640,190 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JudgeTasks/03Arrays/03Arrays/src/P17SequenceInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/BFSGraphImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P01AsteroidCollisionLeetCode_NW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="17">
           <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Array/P01FirstMissingPositive.java" />
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P04CokiSkoki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P03Swappings_WA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Graph/P01KeysAndRooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/BFSGraphImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        <state relative-caret-position="-442">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/DFSGraphImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/P07Graph/src/P01RedRidingHood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="12" selection-end-line="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/FloydWarshall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/P08Tree/src/P03Medians_NW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/P07Graph/src/P03Deistviq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/P07Graph/src/P02Kamion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="245" lean-forward="true" selection-start-line="10" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="67" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P04Packages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/ADrian.java" />
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P01OddNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P02Slogan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P01HdnlToy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1238">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/05HashTables/src/P03Cooking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5483#5484#0" expanded="true" />
+            <element signature="e#5510#5511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P03OnlineMarket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

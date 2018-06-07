@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class P02UnitsOfWork {
+public class P02UnitsOfWork implements Comparable {
 
 
   public static Map<String, Unit> unitsMap = new HashMap<>();
@@ -71,6 +71,11 @@ public class P02UnitsOfWork {
     }
   }
 
+  @Override
+  public int compareTo(Object o) {
+    return 0;
+  }
+
   static class Unit {
     public String name;
     public String type;
@@ -87,13 +92,16 @@ public class P02UnitsOfWork {
       return String.format("%s[%s]%s", name, type, attack);
     }
 
-  // @Override
-  // public int compareTo(Object o) {
-  //   Unit unit = (Unit) o;
-  //   int attackCompare = Integer.compare(this.attack, unit.attack);
-  //   if (attackCompare != 0) {
-  //     return -attackCompare;
-  //   } else return
-  // }
+
+
+   //@Override
+   //public int compareTo(Object o) {
+   // Unit unit = (Unit) o;
+   // int attackCompare = Integer.compare(this.attack, unit.attack);
+   // if (attackCompare != 0) {
+   //   return -attackCompare;
+
+   // } else return
+   }
   }
-}
+
