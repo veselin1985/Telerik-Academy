@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/GraphsAlgorithms/FloydWarshall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/DSA04062018.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P01HdnlToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P02Slogan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P03OnlineMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P04Packages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P01RedRidingHood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P02Kamion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P07Graph/src/P03Deistviq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P08Tree/P08Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JudgeTasks/P08Tree/src/P03Medians_NW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Graph/P01KeysAndRooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/DSA/DSAexamPreparation30052018/P02UnitsOfWork.java" afterDir="false" />
-    </list>
+    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +21,7 @@
     <favorites_list name="Telerik-Academy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,9 +88,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1378" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1379" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -122,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -140,11 +120,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -349,67 +328,67 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="simpleUML" order="2" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030349" side_tool="true" weight="0.68822557" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32843137" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969651" weight="0.11111111" />
-      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32669982" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49563318" visible="true" weight="0.36418816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49563318" visible="true" weight="0.2578125" />
       <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.27155825" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" weight="0.33763278" />
       <window_info anchor="bottom" x="22" y="281" width="1318" height="289" id="Debug" order="7" sideWeight="0.49924356" weight="0.76285243" />
+      <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" weight="0.33763278" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32669982" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.569044" weight="0.3283582" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
+      <window_info id="simpleUML" order="2" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.26479515" />
       <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2572079" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="simpleUML" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -559,13 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/function/BiConsumer.java" />
     <entry file="file://$PROJECT_DIR$/JudgeTasks/06LinearDataStructures/src/P02JediMeditation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -715,13 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/PriorityQueue.java" />
     <entry file="file://$PROJECT_DIR$/JudgeTasks/P08Tree/src/P03Medians_NW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -743,34 +710,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="245" lean-forward="true" selection-start-line="10" selection-end-line="245" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="67" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P02Second.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P01.java" />
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DSA/SetAndMap/P03.java" />
     <entry file="file://$PROJECT_DIR$/JudgeTasks/Exams/DSA04062018/src/P04Packages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -822,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
