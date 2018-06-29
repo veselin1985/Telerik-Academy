@@ -31,6 +31,10 @@ function validateForm() {
         alert('Number of adults is required!');
         return false;
     }
+    if (isEmpty($("#children").val().trim())) {
+        alert('Number of children is required!');
+        return false;
+    }
     return true;
 }
 

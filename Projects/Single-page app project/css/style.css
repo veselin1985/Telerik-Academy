@@ -142,14 +142,31 @@ footer a {
 /* book.html */
 .book-form{
     padding-left: 30px;
-    width: 600px;
+    width: 400px;
 }
 .book-form div{
     padding-bottom: 18px;
+    
+
 }
 .book-logo{
     float: right;
 }
 .form-dipslay-block{
-    display: flex;
+    display: inline-block;
+}
+.required{
+color: red;
+}
+.submit-button{
+    background: rgba(255, 255, 255, 0.5);
+    width: 100px;
+    height: 20px;
+}
+.input-full-fill{
+    width: 100%;
+}
+.input-half-fill{
+    width: 100%;
+    padding-left: 20px;
 }

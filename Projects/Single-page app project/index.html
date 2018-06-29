@@ -33,16 +33,90 @@
                         <a href="#">CONTACTS</a>
                     </li>
                     <li>
-                        <a id="book-button" class="block-button" href="book.html">BOOK</a>
+                        <a id="book-button" class="block-button" href="#">BOOK</a>
                     </li>
                 </ul>
             </nav>
         </div>
-
-
     </header>
     <main id="main" class="container">
-        <section id="head" class="head">
+        <div id="book-div" style="display: none">
+            <aside class="book-logo">
+                <img src="img/BlueSea_Logo.png" alt="">
+            </aside>
+            <h2>Hotel Reservation - Your last step to the paradise!</h2>
+            
+            <form id="book-form" class="book-form" method="post" action="//submit.form" onSubmit="return validateForm();">
+                <div>
+                    <div class="form-dipslay-block ">First name
+                        <span class="required">*</span>
+                        <br>
+                        <input type="text" id="firstName" class="input-half-fill"/>
+                    </div>
+                    <div class="form-dipslay-block">Last name
+                        <span class="required">*</span>
+                        <br>
+                        <input type="text" id="lastName" class="input-half-fill"/>
+                    </div>
+                </div>
+                <div>Phone
+                    <span class="required">*</span>
+                    <br/>
+                    <input type="text" id="phone" class="input-full-fill"/>
+                </div>
+                <div>Email
+                    <span class="required">*</span>
+                    <br>
+                    <input type="text" id="email"  class="input-full-fill" />
+                </div>
+                <div>Arrival date
+                    <span class="required">*</span>
+                    <br>
+                    <input type="text" id="arrivalDate" />
+                </div>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/pikaday.min.js" type="text/javascript"></script>
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/css/pikaday.min.css" rel="stylesheet" type="text/css" />
+                <script type="text/javascript">
+                    new Pikaday({
+                        field: document.getElementById('arrivalDate')
+                    });
+                </script>
+                <div>Departure date
+                    <span class="required">*</span>
+                    <br>
+                    <input type="text" id="departureDate" />
+                </div>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/css/pikaday.css" type="text/javascript"></script>
+                <link href="hhttps://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js" rel="stylesheet" type="text/css" />
+                <script type="text/javascript">
+                    new Pikaday({
+                        field: document.getElementById('departureDate')
+                    });
+                </script>
+                <div>Number of adults
+                    <span class="required">*</span>
+                    <br>
+                    <input type="number" id="adults" />
+                </div>
+                <div>Number of children
+                    <span class="required">*</span>
+                    <br>
+                    <input type="number" id="children" />
+                </div>
+                <div>Questions / Comments
+                    <br>
+                    <textarea id="questions" false rows="4" class="input-full-fill" ></textarea>
+                </div>
+                <div>
+                    <input class="submit-button" value="Book NOW" type="submit" />
+                </div>
+                <div>
+                </div>
+            </form>
+            <script src="js/bookValidation.js" type="text/javascript">
+            </script>
+        </div>
+        <section id="home" class="home">
             <aside>
                 <img src="img/BlueSea_Logo.png" alt="">
             </aside>
