@@ -92,24 +92,22 @@
                     <br>
                     <input type="text" id="email" class="input-full-fill" />
                 </div>
-                <div>
-                    <div class="form-dipslay-block">Arrival date
-                        <span class="required">*</span>
-                        <br>
-                        <input type="text" id="arrivalDate" class="input-middle-fill" />
-                    </div>
-                    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/pikaday.min.js" type="text/javascript"></script>
-                    <link href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/css/pikaday.min.css" rel="stylesheet" type="text/css" />
-                    <script type="text/javascript">
-                        new Pikaday({
-                            field: document.getElementById('arrivalDate')
-                        });
-                    </script>
-                    <div>Departure date
-                        <span class="required">*</span>
-                        <br>
-                        <input type="text" id="departureDate" class="input-middle-fill" />
-                    </div>
+                <div class="form-dipslay-block">Arrival date
+                    <span class="required">*</span>
+                    <br>
+                    <input type="text" id="arrivalDate" class="input-middle-fill" />
+                </div>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/pikaday.min.js" type="text/javascript"></script>
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.4.0/css/pikaday.min.css" rel="stylesheet" type="text/css" />
+                <script type="text/javascript">
+                    new Pikaday({
+                        field: document.getElementById('arrivalDate')
+                    });
+                </script>
+                <div>Departure date
+                    <span class="required">*</span>
+                    <br>
+                    <input type="text" id="departureDate" class="input-middle-fill" />
                 </div>
                 <script type="text/javascript">
                     new Pikaday({
@@ -119,41 +117,62 @@
                 <div>Number of adults
                     <span class="required">*</span>
                     <br>
-                    <input type="text" id="adults" selectBoxOptions="1;2;3;4;5" />
+                    <select id="adults" class="input-select">
+                        <option disabled selected value></option>
+                        <option value="1">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="3+">3+</option>
+                    </select>
                 </div>
                 <div>Number of children
                     <span class="required">*</span>
                     <br>
-                    <input type="text" id="children" selectBoxOptions="1;2;3;4;5" />
-                    <script type="text/javascript">
-                        createEditableSelect(document.forms[0].children);
-                    </script>
+                    <select id="children" class="input-select">
+                        <option disabled selected value></option>
+                        <option value="1">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="5+">5+</option>
+
+                    </select>
                 </div>
                 <div>Questions / Comments
                     <br>
                     <textarea id="questions" false rows="4" class="input-full-fill"></textarea>
                 </div>
                 <div>
-                    <input class="submit-button" value="Book NOW" type="submit" />
+                    <button type="submit" class="submit-button">Book Now</button>
                 </div>
                 <div>
                 </div>
             </form>
             <script src="js/bookValidation.js" type="text/javascript">
             </script>
-
         </div>
         <div id="weather-div" class="weather-div" style="display: none">
-            <aside>
+            <h2>Real time weather in Faaa city</h2>
+            <aside class="weather-inline">
                 <img src="img/BlueSea_Logo.png" alt="">
             </aside>
-            <div>
-                <div id="tempreture"></div>
+            <div class="weather-inline weather-block">
+                <div id="weather-description">
+                    <img id="weather-icon" src="" alt="">
+                </div>
+                <div id="weather-tempreature"></div>
+                <div id="weather-humidity"></div>
+                <div id="weather-clouds"></div>
+                <div id="weather-wind"></div>
+                <div id="weather-pressure"></div>
             </div>
-            <div>
-                <iframe src="http://free.timeanddate.com/clock/i6b1npe4/n278/szw110/szh110/hoc09f/hbw0/hfc09f/cf100/hnce1ead6/fas30/fdi66/mqc000/mql15/mqw4/mqd98/mhc000/mhl15/mhw4/mhd98/mmc000/mml10/mmw1/mmd98/hhs2/hms2/hsv0"
-                    frameborder="0" width="200" height="200"></iframe>
-            </div>
+            <!-- <div> -->
+            <!-- <iframe src="http://free.timeanddate.com/clock/i6b1npe4/n278/szw110/szh110/hoc09f/hbw0/hfc09f/cf100/hnce1ead6/fas30/fdi66/mqc000/mql15/mqw4/mqd98/mhc000/mhl15/mhw4/mhd98/mmc000/mml10/mmw1/mmd98/hhs2/hms2/hsv0" -->
+            <!-- frameborder="0" width="250" height="250"></iframe> -->
+            <!-- </div> -->
         </div>
     </main>
     <footer>
