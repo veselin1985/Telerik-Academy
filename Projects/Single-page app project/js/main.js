@@ -17,4 +17,4 @@ $("#home-button").on("click", function () {
     currentShow = $("#home-div");
 })
 
-$.backstretch("img/Bora-Bora-Pool-party_3840x2160.jpg");
+$.backstretch("img/HP.jpg");
