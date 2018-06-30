@@ -2,6 +2,7 @@
 head,
 body {
     color: rgb(32, 32, 87);
+    
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ body {
 
 body {
     width: 100%;
-    background-image: url("../img/Main_Head_Pic.jpg");
+    background-image: url("../img/beach-calm-clouds-457882.jpg");
     background: 100% auto;
 }
 
@@ -139,7 +140,11 @@ footer a {
     }
 }
 
-/* book.html */
+/* weather */
+.weather-div div{
+    display: inline-block;
+}
+/* book*/
 .book-form{
     padding-left: 30px;
     width: 400px;
