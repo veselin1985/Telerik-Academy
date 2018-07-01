@@ -24,7 +24,7 @@
                         <a href="#">OUR HOTEL</a>
                     </li>
                     <li>
-                        <a href="#">GALERY</a>
+                        <a id="galery-button" class="galery-button" href="#">GALERY</a>
                     </li>
                     <li>
                         <a href="#">YOUR STAY</a>
@@ -152,7 +152,7 @@
             </script>
         </div>
         <div id="weather-div" class="weather-div" style="display: none">
-            <h2>Real time and weather in Faaa city</h2>
+            <h2>Real time weather in Faaa city</h2>
             <aside class="weather-inline">
                 <img src="img/BlueSea_Logo.png" alt="">
             </aside>
@@ -165,10 +165,19 @@
                 <div id="weather-pressure"></div>
             </div>
             <a href="http://www.animatedimages.org/cat-sun-278.htm">
-                <img src="http://www.animatedimages.org/data/media/278/animated-sun-image-0334.gif" border="0" alt="animated-sun-image-0334"
-                />
+                <img id="weather-gif" class="weather-gif" src="http://www.animatedimages.org/data/media/278/animated-sun-image-0334.gif"
+                    border="0" alt="animated-sun-image-0334" />
             </a>
             <!-- <img class="weather-icon" width="200px" src="img/Weather-icon.png" alt=""> -->
+        </div>
+        <div id="galery-div" class="galery-div" style="display: none">
+            <div id="slides" class="slides">
+                    <img src="img/forSlide1.jpg">
+                    <img src="img/forSlide2.jpg">
+                    <img src="img/forSlide3.jpg">
+                    <img src="img/forSlide4.jpg">
+                    <img src="img/forSlide5.jpg">
+            </div>
         </div>
     </main>
     <footer>
@@ -200,6 +209,7 @@
     </footer>
     <script src="js/main.js" type="text/javascript"></script>
     <script src="js/weatherAJAX.js"></script>
+
 </body>
 
 </html>
