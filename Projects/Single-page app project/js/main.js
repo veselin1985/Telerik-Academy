@@ -18,3 +18,4 @@ $("#home-button").on("click", function () {
 })
 
 $.backstretch("img/HP.jpg");
+

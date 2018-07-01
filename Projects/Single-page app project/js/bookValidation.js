@@ -35,6 +35,15 @@ function validateForm() {
         alert('Number of children is required!');
         return false;
     }
+    if (($("#adults").val().trim()) == "0" && ($("#children").val().trim()) == "0") {
+        alert('Both Children and Adults cannot be 0!');
+        return false;
+    }
+    if($("#arrivalDate").val().trim() >= $("#departureDate").val().trim()){
+        alert("Arrival date cannot be after or equal to Departure date!")
+        return false
+    }
+
     return true;
 }
 
