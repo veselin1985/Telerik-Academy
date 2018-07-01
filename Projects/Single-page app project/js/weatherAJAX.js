@@ -6,24 +6,29 @@ $(document).ready(function () {
         dataType: "jsonp",
         success: function (data) {
             console.log(data);
-            var weather = data.weather[0].main;
-            var description = data.weather[0].description;
-            var icon = data.weather[0].icon;
-            var tempreture = data.main.temp;
-            var clouds = data.clouds.all;
-            var humidity = data.main.humidity;
-            var wind = data.wind.speed;
-            var pressure = data.main.pressure;
-
-            $("#weather-description").html("Weather: " + weather + " - " + description);
-            $("#weather-icon").attr("src", icon);
-            $("#weather-tempreture").html("Current tempreture: " + tempreture);
-            $("#weather-clouds").html("Clouds: " + humidity + "%");
-            $("#weather-humidity").html("Humidity: " + humidity + "%");
-            $("#weather-wind").html("Wind speed: "+ wind+"meter/sec");
-            $("#weather-pressure").html("Pressure: "+ pressure+"hPa");
-
+            setWeather(data);
+            
+           
         },
 
     });
 })
+function setWeather(data){
+    var weather = data.weather[0].main;
+    var description = data.weather[0].description;
+    var icon = data.weather[0].icon;
+    var temperature = data.main.temp;
+    var clouds = data.clouds.all;
+    var humidity = data.main.humidity;
+    var wind = data.wind.speed;
+    var pressure = data.main.pressure;
+
+    $("#weather-description").html("Weather: " + weather + " - " + description);
+    $("#weather-icon").attr("src", icon);
+    $("#weather-temperature").html("Current tempreture: " + temperature +" &#8451");
+    $("#weather-clouds").html("Clouds: " + clouds + "%");
+    $("#weather-humidity").html("Humidity: " + humidity + "%");
+    $("#weather-wind").html("Wind speed: "+ wind+" meter/sec");
+    $("#weather-pressure").html("Pressure: "+ pressure+" hPa");
+
+}
