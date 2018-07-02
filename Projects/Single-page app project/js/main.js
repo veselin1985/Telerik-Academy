@@ -32,4 +32,10 @@ $("#galery-button").on("click", function () {
     $('body').css("background-image", "../img/galeryBG.jpg");
     $.backstretch("img/galeryBG.jpg");
 })
-
+$("#your-stay-button").on("click", function () {
+    currentShow.hide();
+    $("#your-stay-div").show();
+    currentShow = $("#your-stay-div");
+    $('body').css("background-image", "../img/your-stayBG3.jpg");
+    $.backstretch("img/your-stayBG3.jpg");
+})

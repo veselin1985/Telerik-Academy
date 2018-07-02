@@ -108,6 +108,7 @@ main section p {
     padding-left: 200px;
     text-align: center;
     margin-top: 20px;
+    background-size: cover;
 }
 
 .slides img {
@@ -165,7 +166,7 @@ main section p {
 
 @-webkit-keyframes fade {
     from {
-        opacity: .4
+        opacity: 0.4
     }
     to {
         opacity: 1
@@ -174,7 +175,7 @@ main section p {
 
 @keyframes fade {
     from {
-        opacity: .4
+        opacity: 0.4
     }
     to {
         opacity: 1
@@ -186,7 +187,7 @@ footer {
     height: 15%;
     display: inline-block;
     text-align: left;
-    border: solid white 1px;
+    border-top: solid white 1px;
     margin-top: 20px;
     padding-left: 20px;
 }

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="" />
+    <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/weatherAJAX.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/weatherAJAX.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,8 +123,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,14 +363,14 @@
       <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" weight="0.33763278" />
       <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32669982" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.569044" weight="0.3283582" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info id="simpleUML" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -374,28 +379,28 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.26479515" />
       <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2572079" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="simpleUML" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
