@@ -9,14 +9,12 @@ body {
 }
 
 body {
-
     background-image: url("../img/homeBG.jpg");
     background-image: no-repeat;
     background-size: 100% auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    
 }
 
 header {
@@ -106,11 +104,18 @@ main section p {
 /* your stay */
 
 .your-stay-div {
-    background: rgba(255, 255, 255, 0.80);
+    background: rgba(255, 255, 255, 0.60);
+    padding: 30px 0px;
+    margin: 30px 0px;
+}
+.your-stay-div p{
+    text-align: justify;
+
 }
 
 .your-stay-div>h2 {
     background: none;
+    font-size: 36px;
 }
 
 .your-stay-div aside {
@@ -130,13 +135,14 @@ main section p {
     width: 40%;
     margin: 5px;
     display: inline-block;
-    border: 1px solid black;
+    border: 1px solid rgba(110, 162, 230, 0.6);
     border-radius: 10px;
 }
 
 .item img {
-    max-width: 100%;
-    height: 100px;
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
 }
 
 /* galelry */
@@ -222,24 +228,6 @@ main section p {
     }
 }
 
-footer {
-    width: 100%;
-    height: 15%;
-    display: inline-block;
-    text-align: left;
-    border-top: solid white 1px;
-    margin-top: 20px;
-    padding-left: 20px;
-}
-
-footer img {
-    width: 35px;
-}
-
-footer a {
-    text-decoration: none;
-}
-
 /* weather */
 
 .weather-div {
@@ -285,12 +273,15 @@ footer a {
 }
 
 /* book*/
-.book-div h2{
+
+.book-div h2 {
     margin-top: 50px;
 }
-.book-div aside{
+
+.book-div aside {
     margin-top: -40px;
 }
+
 .book-form {
     padding-left: 30px;
     width: 400px;
@@ -372,6 +363,36 @@ textarea {
     content: "";
     display: table;
     clear: both;
+}
+
+footer {
+    width: 100%;
+    height: 15%;
+    display: inline-block;
+    text-align: left;
+    border-top: solid white 1px;
+    margin-top: 50px;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.50);
+}
+
+footer div {
+    display: inline-block;
+    height: auto;
+}
+
+footer img {
+    width: 35px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer .address {
+    float: right;
+    vertical-align: middle;
+    margin-right: 50px;
 }
 
 /* media settings */
