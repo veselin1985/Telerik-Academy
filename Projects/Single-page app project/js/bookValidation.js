@@ -56,3 +56,8 @@ function validatePhone(phone) {
     var phone_pattern = /^[0-9-+]+$/ ;
     return isEmpty(phone) || phone_pattern.test(phone);
 }
+
+
+function submitted() {
+    alert('Book submitted!');
+}

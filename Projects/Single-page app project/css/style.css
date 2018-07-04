@@ -108,11 +108,10 @@ main section p {
     padding: 30px 0px;
     margin: 30px 0px;
 }
-.your-stay-div p{
-    text-align: justify;
-    margin:  10px 10px;
-   
 
+.your-stay-div p {
+    text-align: justify;
+    margin: 10px 10px;
 }
 
 .your-stay-div>h2 {
@@ -151,12 +150,16 @@ main section p {
 
 .slides {
     position: relative;
-    width: 1024px;
-    height: 580px;
+    width: 70%;
     padding-left: 200px;
     text-align: center;
     margin-top: 20px;
     background-size: cover;
+}
+
+.slides-inline {
+    display: inline-block;
+    width: 70%;
 }
 
 .slides img {
@@ -182,7 +185,8 @@ main section p {
     width: auto;
     margin-top: -22px;
     padding: 16px;
-    color: white;
+    color: rgb(32, 32, 87);
+    border: solid 2px rgba(110, 162, 230, 0.6);
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
@@ -201,6 +205,7 @@ main section p {
 .prev:hover,
 .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
+    color: white;
 }
 
 /* Fading animation */
@@ -243,10 +248,7 @@ main section p {
 
 .weather-div h2 {
     font-size: 36px;
-}
-
-.weather-div aside {
-    float: left;
+    padding-top: 40px;
 }
 
 .weather-inline {
@@ -254,11 +256,11 @@ main section p {
 }
 
 .weather-block {
-    width: 500px;
-    height: 300px;
+    width: 40%;
     border: 2px solid rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     margin-left: 200px;
+    margin-top: 80px;
 }
 
 .weather-block div {
@@ -424,6 +426,9 @@ footer .address {
     .book-form {
         padding-left: 400px !important;
     }
+    .slides {
+        width: 60%;
+    }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -442,12 +447,9 @@ footer .address {
     .book-form {
         padding-left: 250px !important;
     }
-    .weather-block {
-        border: none;
-    }
     .weather-block div {
         font-size: 18px;
-        padding: 0;
+        padding: 0px;
         margin: 0;
     }
     .weather-gif {
@@ -474,14 +476,12 @@ footer .address {
     .book-form {
         padding-left: 250px !important;
     }
-    .weather-block {
-        border: none;
-        padding: 0;
+    .slides {
+        padding-left: 150px;
         margin: 0;
     }
     .weather-block div {
         font-size: 16px;
-        border: none;
     }
     .weather-gif {
         width: 80px;
@@ -507,14 +507,14 @@ footer .address {
         text-align: justify;
         font-size: 0.8em;
     }
-    .your-stay-div h2{
+    .your-stay-div h2 {
         font-size: 22px;
     }
     .book-form {
         padding-left: 200px !important;
     }
     .weather-block {
-        border: none;
+        margin-left: 25px;
     }
     .weather-block div {
         font-size: 14px;
