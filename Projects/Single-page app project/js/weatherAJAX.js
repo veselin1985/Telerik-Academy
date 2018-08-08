@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $.ajax({
-        url: "http://api.openweathermap.org/data/2.5/weather?q=" + "Faaa" +
+        url: "https://api.openweathermap.org/data/2.5/weather?q=" + "Faaa" +
             "&units=metric&APPID=e859adf4ab9ae89323535d40291e7ac1",
         type: "GET",
         dataType: "jsonp",

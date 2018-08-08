@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e270f905-dacc-4bf6-9693-6ad15df67ba7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/slider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Single-page app project/js/weatherAJAX.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Single-page app project/js/weatherAJAX.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -93,6 +90,15 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1380" />
@@ -106,6 +112,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,12 +130,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -157,6 +165,9 @@
       <option name="MAIN_CLASS_NAME" value="P01HdnlToy" />
       <module name="DSA04062018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA.SetAndMap.P02" />
@@ -168,11 +179,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P02Slogan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P02Slogan" />
       <module name="DSA04062018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA.SetAndMap.P03" />
@@ -184,52 +201,37 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P03OnlineMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P03OnlineMarket" />
       <module name="DSA04062018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.P03" />
@@ -258,6 +260,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527233905981</updated>
+      <workItem from="1532609842696" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="EXAM/OOP module created.&#10;SimpeProjectManagementSystem project created. First exam OOP.">
       <created>1527234023058</created>
@@ -339,6 +342,9 @@
     <option name="localTasksCounter" value="12" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
@@ -349,12 +355,14 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030349" side_tool="true" weight="0.68822557" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969651" weight="0.11111111" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49563318" visible="true" weight="0.2578125" />
+      <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.27155825" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -363,13 +371,13 @@
       <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" weight="0.33763278" />
       <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32669982" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.569044" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32669982" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="simpleUML" order="2" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.569044" weight="0.3283582" />
       <window_info anchor="bottom" id="Find" order="2" />
     </layout>
     <layout-to-restore>
@@ -377,31 +385,34 @@
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.26479515" />
       <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2572079" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
